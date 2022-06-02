@@ -241,3 +241,37 @@ h3 {
   );
   cursor: pointer;
 }
+#intentar {
+  padding: 5px;
+  width: 155px;
+  margin: 1rem;
+  background-color: aliceblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1em;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 1px 1px 4px 5px #a8a9a9;
+}
+#intentar:hover {
+  background-image: radial-gradient(
+    circle at -4.17% 4.55%,
+    #009cff 0,
+    #0096ff 5.56%,
+    #008fff 11.11%,
+    #0086ff 16.67%,
+    #0076ff 22.22%,
+    #6370ff 27.78%,
+    #9762ff 33.33%,
+    #bb51ff 38.89%,
+    #d63cf1 44.44%,
+    #ec1edc 50%,
+    #fd00c6 55.56%,
+    #ff00af 62.22%,
+    #ff0098 66.67%,
+    #ff0081 72.22%,
+    #ff006a 77.78%,
+    #ff0053 83.33%,
+    #ff003c 88.89%,
+    #ff1624 94.44%,
+    #ff3600 100%
+  );
+}
